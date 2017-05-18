@@ -1,0 +1,3 @@
+[submodule "private/snippets"]
+	path = private/snippets
+	url = git@bitbucket.org:ddominic/yasnippet-snippets
